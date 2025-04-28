@@ -1,5 +1,10 @@
 # Whitespace Steganography Encoder/Decoder
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Steganography](https://img.shields.io/badge/Steganography-Whitespace-informational)
+
+
 ## 📖 Overview
 
 This tool demonstrates **basic steganographic techniques** using **Unicode whitespace characters** to encode and decode hidden binary messages within plain text.
