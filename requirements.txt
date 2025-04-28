@@ -1,0 +1,7 @@
+# requirements.txt
+
+# This project uses only the Python standard library (Python 3.7+).
+# No additional packages required.
+
+# Recommended Python version:
+python>=3.7
