@@ -1,0 +1,1 @@
+This file might contain some errors as I have abandoned it years ago. A lot of people have made similar tools, so there might be better versions out there. Feel free to use it as you please. Referencing my name or this repo is appreciated, but not mandatory. (Everyone is allowed to copy and paste!) Happy coding!
